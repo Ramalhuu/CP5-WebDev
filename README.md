@@ -68,6 +68,6 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 
 ## Integrantes 
 
-Felipe Ramalho
-Mikael de Albuquerque 
-Murilo Cruz
+-Felipe Ramalho RM562148
+-Mikael         RM566507 
+-Murilo Cruz    RM563743
