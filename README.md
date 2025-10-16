@@ -8,6 +8,10 @@ Este é um projeto web simples desenvolvido com React que permite buscar persona
 - **Exibição de Resultados:** Visualize uma lista de personagens que correspondem à sua busca.
 - **Detalhes do Personagem:** Clique em um personagem para ver informações detalhadas, como espécie, status, gênero, origem e última localização conhecida.
 
+# Acessar:
+
+- link do vercel: 
+
 ## Tecnologias Utilizadas
 
 - **Frontend:** React, Vite
