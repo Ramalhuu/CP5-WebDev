@@ -10,7 +10,7 @@ Este é um projeto web simples desenvolvido com React que permite buscar persona
 
 # Acessar:
 
-- link do vercel: 
+- link do vercel: [Acesso Vercel](cp-5-web-dev-eta.vercel.app)
 
 ## Tecnologias Utilizadas
 
