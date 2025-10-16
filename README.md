@@ -78,4 +78,5 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 
 ## Info:
 
-Tinhamos feito em outro repositório, mas tivemos que passar para esse porque tivemos problema com o administrador do outro. 
+Tinhamos feito em outro repositório, mas tivemos que passar para esse porque tivemos problema com o administrador do outro. Desconsiderar o outro repositório
+
