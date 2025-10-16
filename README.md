@@ -75,3 +75,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 -Felipe Ramalho RM562148
 -Mikael         RM566507 
 -Murilo Cruz    RM563743
+
+## Info:
+
+Tinhamos feito em outro repositório, mas tivemos que passar para esse porque tivemos problema com o administrador do outro. 
